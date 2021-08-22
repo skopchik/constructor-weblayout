@@ -1,4 +1,3 @@
-# Constructor-weblayout
-Интенсив Glo Academy
-Учебный конструктор одностраничного промо-сайта
-https://skopchik.github.io/constructor-weblayout/
+# Constructor weblayout - конструктор одностраничного промо-сайта
+## Учебный проект Glo Academy 
+### https://skopchik.github.io/constructor-weblayout/
